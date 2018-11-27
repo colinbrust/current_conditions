@@ -1,0 +1,11 @@
+/data/*
+/graphs/*
+/.idea/*
+/.DS_Store
+/index.html
+/index.html.bak
+/streamflowMap.html
+/streamflowMap2.html
+/scripts/*.swp
+/scripts/*.log
+/scripts/*.pyc
